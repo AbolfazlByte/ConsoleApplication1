@@ -1,6 +1,2 @@
-# electron-search-pro-demo-
-a search pro in google.com by google tools and electron in form of demo
-there is a bug 
-can you help
-and 
-Give it an idea.
+# Filtered Search Tool
+A tool for searching in the Google search engine for children whose results are filtered according to their age.
