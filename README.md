@@ -16,7 +16,7 @@ Programming is a skill that thrives on practice. This repository is designed to 
 
 1. **Clone the Repository**: Begin by cloning this repository to your local machine using the following command:
    ```
-   git clone https://github.com/abolfazlbyte/Programming-practice.git
+   git clone <https link>
    ```
 
 2. **Choose a Section**: Explore the sections within the repository to find exercises, challenges, and projects that interest you. Each section has its own README with detailed instructions.
